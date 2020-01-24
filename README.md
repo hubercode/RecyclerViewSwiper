@@ -38,7 +38,7 @@ Add the dependency:
 <dependency>
   <groupId>com.github.michaelhuber88</groupId>
   <artifactId>RecyclerViewSwiper</artifactId>
-  <version>Tag</version>
+  <version>1.0</version>
 </dependency>
 ```  
 
