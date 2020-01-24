@@ -20,7 +20,7 @@ allprojects {
 Add the dependency to your app build.gradle
 ```
 dependencies {
-  implementation 'com.github.michaelhuber88:RecyclerViewSwiper:Tag'
+  implementation 'com.github.michaelhuber88:RecyclerViewSwiper:1.0'
 }  
 ```  
 ### maven:
