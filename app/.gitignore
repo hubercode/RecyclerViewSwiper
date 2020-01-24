@@ -1,0 +1,14 @@
+.bench
+.bench.d
+
+#========== Idea ==========
+/.idea
+
+**/*.iml
+
+#========== Gradle ==========
+/gradlew.bat
+/.gradle
+/local.properties
+
+**/build
